@@ -1,0 +1,6 @@
+{"_id":{"$oid":"61311dcfdd5108d3f682cbea"},"name":"Home","url_alias":"/","__v":0}
+{"_id":{"$oid":"61311dcfdd5108d3f682cbeb"},"name":"Bollywood","url_alias":"/category/bollywood","__v":0}
+{"_id":{"$oid":"61311dcfdd5108d3f682cbec"},"name":"Technology","url_alias":"/category/tech","__v":0}
+{"_id":{"$oid":"61311dcfdd5108d3f682cbed"},"name":"Hollywood","url_alias":"/category/hollywood","__v":0}
+{"_id":{"$oid":"61311dcfdd5108d3f682cbee"},"name":"Travel","url_alias":"/category/travel","__v":0}
+{"_id":{"$oid":"61311dcfdd5108d3f682cbef"},"name":"Food","url_alias":"/category/food","__v":0}

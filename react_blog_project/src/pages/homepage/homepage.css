@@ -1,0 +1,13 @@
+.homepage {
+    animation: fade-in 1s forwards;
+    opacity: 0;
+    
+}
+
+@keyframes fade-in {
+
+    to {
+        opacity: 1;
+    }
+    
+}
